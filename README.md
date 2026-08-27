@@ -1,4 +1,4 @@
-# Arduino 7 Segemrnt Display & 3-Digit Batch Counter
+# Arduino 7 Segement Display & 3-Digit Batch Counter
 
 An Arduino Uno batch/item counter (000–999) built for industrial production tracking. Three independent CD4511 BCD-to-7-segment decoders each drive their own digit, controlled by two debounced pushbuttons (with hold-to-repeat) and a potentiometer that acts as a variable-speed auto-count throttle.
 
